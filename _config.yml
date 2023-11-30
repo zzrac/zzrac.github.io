@@ -5,8 +5,8 @@
 # Site
 title: zzrac
 subtitle: ''
-description: hello,欢迎来到我的个人博客！
-keywords:
+description: "hello,欢迎来到我的个人博客！"
+keywords: Blog
 author: zzrac
 language: zh-CN
 timezone: Asia/Shanghai
@@ -101,4 +101,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: ''
+  branch: master
+
