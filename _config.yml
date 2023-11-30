@@ -102,6 +102,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  respository: git@github.com:zzrac/zzrac.github.io.git
-  branch: master
+  repo: git@github.com:zzrac/zzrac.github.io.git
+  branch: main
   
