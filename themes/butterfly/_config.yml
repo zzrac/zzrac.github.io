@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: ./source/img/1.jpg
+  img: https://cn.bing.com/images/search?view=detailV2&ccid=WpK9%2fRuV&id=4B03DF0BBA11E322476F795B92CAB094CC8FC24B&thid=OIP.WpK9_RuVxITUFL5EDhhQFwHaPx&mediaurl=https%3a%2f%2fpic3.zhimg.com%2f50%2fv2-12a9ee00b1cd10778639d07cd6f1ca6f_720w.jpg%3fsource%3d1940ef5c&exph=1533&expw=720&q=%e5%bc%a0%e5%9b%bd%e8%8d%a3%e5%b8%85%e7%85%a7&simid=608019940670252753&FORM=IRPRST&ck=A6EE8D1FA70EE9E399353BB3F028D834&selectedIndex=20&itb=0&ajaxhist=0&ajaxserp=0
   effect: false
 
 # Disable all banner image
@@ -767,7 +767,6 @@ subtitle:
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: true
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-  sub:
     - 我喜欢的便是无价之宝
 
 # Loading Animation (加載動畫)
@@ -783,7 +782,7 @@ preloader:
 # wordcount (字數統計)
 # see https://butterfly.js.org/posts/ceeb73f/#字數統計
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
