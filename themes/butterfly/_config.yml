@@ -44,14 +44,14 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cn.bing.com/images/search?view=detailV2&ccid=WpK9%2fRuV&id=4B03DF0BBA11E322476F795B92CAB094CC8FC24B&thid=OIP.WpK9_RuVxITUFL5EDhhQFwHaPx&mediaurl=https%3a%2f%2fpic3.zhimg.com%2f50%2fv2-12a9ee00b1cd10778639d07cd6f1ca6f_720w.jpg%3fsource%3d1940ef5c&exph=1533&expw=720&q=%e5%bc%a0%e5%9b%bd%e8%8d%a3%e5%b8%85%e7%85%a7&simid=608019940670252753&FORM=IRPRST&ck=A6EE8D1FA70EE9E399353BB3F028D834&selectedIndex=20&itb=0&ajaxhist=0&ajaxserp=0
+  img: /img/1.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: /img/2.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
@@ -695,7 +695,7 @@ canvas_nest:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: false
+  enable: true
   zIndex: 9999 # -1 or 9999
   mobile: false
 
@@ -748,7 +748,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   startDelay: 300
