@@ -113,4 +113,4 @@ aplayer:
 encrypt:
   enable: true
   message: 输入密码，查看文章
-  
+  abstract: 有东西被加密了，请输入密码查看

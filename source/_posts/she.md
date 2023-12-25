@@ -3,7 +3,7 @@ title: she
 date: 2023-8-5
 categories: she
 password: 20221109
-abstract: 这篇文章被加密了，请输入密码观看哦
+abstract: 这篇文章被加密了，请输入密码查看哦
 wrong_pass_message: 密码不太对哦
 top: true
 ---
