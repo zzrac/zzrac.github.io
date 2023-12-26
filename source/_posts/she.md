@@ -6,6 +6,7 @@ password: 20221109
 abstract: 这篇文章被加密了，请输入密码查看哦
 wrong_pass_message: 密码不太对哦
 top: true
+theme: shrink
 ---
 
 ### 前言
